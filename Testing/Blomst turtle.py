@@ -3,12 +3,12 @@
 """
 Created on Tue Sep  7 22:00:31 2021
 
-@author: -anders-
+@author: Anders
 """
 
 import turtle
 
-STORRELSE = 50
+STORRELSE = 100
 VINKEL = 10
 
 turtle.setup(1500,1500,0,0)
