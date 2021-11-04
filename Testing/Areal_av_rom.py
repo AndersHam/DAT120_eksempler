@@ -1,0 +1,1 @@
+Lengde = input("Skriv inn en lengde: ")Lengde_tall = float(Lengde)Bredde = input("Skriv inn en bredde: ")Bredde_tall = float(Bredde)areal = Bredde_tall*Lengde_tallprint("Arealet er: ")print(round(areal, 2))
