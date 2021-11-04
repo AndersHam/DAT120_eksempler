@@ -3,7 +3,7 @@
 """
 Created on Tue Sep  7 22:00:31 2021
 
-@author: Anders
+@author: Anders Hamarsland
 """
 
 import turtle
