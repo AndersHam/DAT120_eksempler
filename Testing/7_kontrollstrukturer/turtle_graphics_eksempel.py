@@ -20,3 +20,8 @@ turtle.forward(STORRELSE)
 turtle.right(90)
 turtle.done()
 
+
+# TESTER FOR Å SE OM DETTE FYNGERER
+
+
+
